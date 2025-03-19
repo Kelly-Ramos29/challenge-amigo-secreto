@@ -13,7 +13,7 @@ Este é um projeto simples para sortear amigos secretos. Ele permite adicionar n
 
 1. **Adicionar Amigos**:
    - Digite o nome de um amigo no campo de texto.
-   - Clique no botão "Adicionar" ou pressione "Enter".
+   - Clique no botão "Adicionar".
    - O nome será adicionado à lista de amigos.
 
 2. **Sortear Amigo Secreto**:
@@ -29,7 +29,7 @@ O código é dividido em três funções principais:
    - Adiciona o nome digitado à lista de amigos.
    - Atualiza a lista exibida na tela.
 
-2. **`atualizarlista()`**:
+2. **`limparLista()`**:
    - Limpa a lista atual e exibe todos os nomes adicionados.
 
 3. **`sortearAmigo()`**:
