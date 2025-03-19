@@ -41,3 +41,7 @@ O código é dividido em três funções principais:
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização da interface.
 - **JavaScript**: Lógica para adicionar, listar e sortear amigos.
+
+1. Clone este repositório:
+   https://github.com/Kelly-Ramos29/challenge-amigo-secreto.git
+
